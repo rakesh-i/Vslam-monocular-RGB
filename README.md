@@ -1,7 +1,7 @@
 # Vslam-monocular-RGB
 An open source mapping and localisation framework for autonomous vehicles using monocular RGB cameras 
-  <img src= "media/2.png" alt="Pointcloud3dmap"width="800" height="500">
-  <img src= "media/1.png" alt="keyfeatures"width="800" height="500">
+![3d][pointcloud]
+![key][keyfeature]
 
 
 
@@ -14,3 +14,7 @@ An open source mapping and localisation framework for autonomous vehicles using 
 F=984 ./slam.py videos/test_kitti984.mp4
 F=550 ./slam.py videos/test_nyc.mp4
 ```
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[keyfeature]: media/2.png
+[pointcloud]: media/1.png
