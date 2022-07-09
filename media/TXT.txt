@@ -1,0 +1,2 @@
+F=984 ./slam.py videos/test_kitti984.mp4
+F=550 ./slam.py videos/test_nyc.mp4
